@@ -6,7 +6,7 @@
 - 🧐 Atualmente procuro estagio em programação
 - 🤓 Hoje estou estudando Python, APIs, JavaScript e HTML
 - 😎 Sempre quis aprender a ser um dev backend
-- 🤔 Estou precisando de ajuda para começar a programar
+- 🤔Estudante de Engenharia de Software focado em desenvolvimento back-end, atualmente desenvolvendo projetos em Python, APIs, JavaScript e HTML.
 - 📫 Entre em contato comigo por email: diego2024sc@gmail.com
 - 🙋‍♂️ Pronome ele/dele
 - 🫡 Fato: Estudando bacharelado em engenharia de software, quero ser dev backend
