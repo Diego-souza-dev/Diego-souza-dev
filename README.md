@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Olá, eu sou o Diego Souza 👋</h1>
+<h1 align="center">Olá, é o Diego 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor Web | Inteligência Artificial | Aprendizado Contínuo</strong>
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor web apaixonado por tecnologia e por transformar
+Sou estudante de engenharia de software apaixonado por tecnologia e por transformar
 ideias em projetos reais.
 
 Tenho grande interesse em **Inteligência Artificial** e busco
@@ -24,8 +24,7 @@ constantemente aprender mais sobre essa área, explorando como a IA
 pode ser aplicada ao desenvolvimento de software e à criação de
 soluções inovadoras.
 
-Gosto de estudar, experimentar novas tecnologias e colocar o
-conhecimento em prática através dos meus projetos.
+Gosto de estudar Python, minha linguagem favorita
 
 ---
 
@@ -33,15 +32,15 @@ conhecimento em prática através dos meus projetos.
 
 ### Front-end
 
-HTML5 • CSS3 • JavaScript • React • Tailwind CSS
+HTML5 • CSS3 • JavaScript •
 
 ### Back-end
 
-Node.js • Express • APIs
+• Python • APIs
 
 ### Ferramentas
 
-Git • GitHub • VS Code • Figma
+Git • GitHub • VS Code 
 
 ---
 
@@ -63,18 +62,13 @@ Tenho interesse especialmente em explorar a integração entre
 
 ### 📰 Notícias Tech
 
-Projeto desenvolvido para colocar meus conhecimentos em prática,
+Projeto desenvolvido em python para colocar meus conhecimentos em prática,
 trabalhando com desenvolvimento web, consumo de APIs e tecnologias
 modernas.
 
 **Tecnologias utilizadas:**
-
-- React
-- JavaScript
-- Tailwind CSS
-- Node.js
-- Express
-- APIs
+- Python
+- FastAPI
 - Git
 - GitHub
 
