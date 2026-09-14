@@ -1,12 +1,17 @@
-## Sobre mim👋
+<div align="center">
+  <img src="perfil-pixel-art.jpg" width="250" alt="Meu avatar em Pixel Art" />
 
+  # Olá! 👋
+  
+  Sou estudante de Engenharia de Software, com foco em desenvolvimento Back-End.
+</div>
 
-**Diego-souza-dev/Diego-souza-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-- 🧐 Atualmente procuro estagio em programação
-- 🤓 Hoje estou estudando Python, APIs, JavaScript e HTML
-- 😎 Sempre quis aprender a ser um dev backend
-- 🤔Estudante de Engenharia de Software focado em desenvolvimento back-end, atualmente desenvolvendo projetos em Python, APIs, JavaScript e HTML.
-- 📫 Entre em contato comigo por email: diego2024sc@gmail.com
-- 🙋‍♂️ Pronome ele/dele
-- 🫡 Fato: Estudando bacharelado em engenharia de software, quero ser dev backend
+### 💻 Minhas Tecnologias
+- **Linguagens & Frameworks:** Python, HTML, FastAPI.
+- **Explorando atualmente:** Programando com APIs.
+
+### 🌱 Sobre mim
+* Sou estudante de Engenharia de Software, com foco em desenvolvimento Back-End.
+* Dedicando tempo aos estudos diários para alcançar clareza e foco nos meus objetivos profissionais.
